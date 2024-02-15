@@ -38,7 +38,7 @@ __7- “==” ve “===” operatörleri ile neleri kontrol ederiz?__
 İki eşittir “Structural Equality Operator” (Yapısal Eşitlik Operatörü) olarak tanımlanmaktadır. Tanımdan da anlaşılacağı üzere bu operatör ile iki değişkenin veya nesnenin değerlerinin (içeriklerinin) eşit olup olmadığını kontrol ederiz ve değerler eşitse bize true değeri döner. Üç eşittir operatöründe ise durum değişiyor bu operatör ile iki değişkenin veya nesnenin aynı bellek konumuna atıfta bulunup bulunmadığını kontrol ediyoruz yani üç eşittir operatöründe bizim için önemli kıstas bellek adresleri.
 
 
-__8- Primitive tipteki değişken nullable yapılır ve “===” operatörü ile referans kontrolü edilirse nasıl bir sonuç alırsınız ve neden bu sonucu alırsınız?__
+__8- Primitive tipteki değişken nullable yapılır ve “===” operatörü ile referansı kontrolü edilirse nasıl bir sonuç alırsınız ve neden bu sonucu alırsınız?__
 
 Eğer primitive tipteki bir değişken nullable olup üç eşittir operatörü ile refarans kontrolü yapılırsa ve Byte değer aralığının (-128, +127) dışında ise bu durumda false değer üretir farklı bellek alanlarını işaret ettiğinizi gösterir ama Byte aralığının içindeyse değerler farklı bile olsa true değerini üretir.
 
