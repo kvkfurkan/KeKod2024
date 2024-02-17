@@ -56,7 +56,7 @@ Kaynakça
 
 [Developer.android.com](https://developer.android.com/kotlin/learn)
 
-[Medium Val vs Var](https://freedium.cfd/https://xabaras.medium.com/kotlin-val-is-read-only-not-immutable-585ce2e5359b)
+[Medium Val is Read-Only](https://freedium.cfd/https://xabaras.medium.com/kotlin-val-is-read-only-not-immutable-585ce2e5359b)
 
 [Medium Type Inference](https://selimselcuk.medium.com/nil-kavram%C4%B1-fc24b81af566)
 
