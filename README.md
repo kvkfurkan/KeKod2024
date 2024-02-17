@@ -17,7 +17,7 @@ Developer Android sitesinde dahi “val” değişkenler için “whose value ne
 
 __3-Var ve Val arasında performans farkı var mıdır?__
 
-Var ve Val arasında dikkate alınmayacak ölçüde bir performans farkı vardır. Ancak bu performans farkı duruma göre değişiklik göstermektedir. Eğer Threading ile alakalı işlemler gerçekleştiriyorsak var ile tanımlama bize daha fazla performans sağlar. Ancak salt kod yazıyorsak val keyword’ü daha performanslı olacaktır.
+Var ve Val arasında dikkate alınmayacak ölçüde bir performans farkı vardır. Ancak bu performans farkı duruma göre değişiklik göstermektedir. Eğer Threading ile alakalı işlemler gerçekleştiriyorsak val ile tanımlama bize daha fazla performans sağlar. Ancak salt kod yazıyorsak var keyword’ü daha performanslı olacaktır.
 
 
 
