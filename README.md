@@ -54,7 +54,7 @@ __11- Kotlinde ve-veya operatörleri lazy çalışma mekanizmasına sahiptir bu 
 Eğer veya operatörünün solu true ise sağdaki değere bakmaya gerek duymaz ve sonucu true kabul eder. Eğer ve operatörünün solu false ise sağdaki değere bakmaya gerek duymaz ve false kabul eder. Bu optimizasyondan dolayı sağda kalan değerlerin kontrolü yapılmaz.
 
 __12- Verilen bir String dizisinde tekrar eden kaç karatker olduğunu bulan kodu yazınız.__
-'''kotlin
+```kotlin
 print("Bir metin girin:")
 val inputString = readLine() ?: ""
 
@@ -70,11 +70,10 @@ println("Tekrar eden karakterler:")
 charFrequencyMap.filterValues { it > 1 }.forEach { (char, frequency) ->
     println("$char : $frequency")
 }
-
-'''
+```
 
 __13- Yıldızlar ile çam ağacı çizimi yapın.__
-'''kotlin
+```kotlin
 fun printPineTree(height: Int) {
     for (i in 1..height) {
         for (j in 1..height - i) {
@@ -87,7 +86,7 @@ fun printPineTree(height: Int) {
     }
 }
 
-'''
+```
 
 
 __14- Değişkenler RAM’de nasıl depolanır?__
@@ -97,7 +96,7 @@ __15- “++number” ve “number++” arasındaki fark nedir?__
 Operatörün sağında ve solunda olması işlem önceliğini belirler. Eğer operatör değişkenden önce geliyorsa ilk önce arttırma işlemi yapılır akabinde diğer işlemler yapılır, ancak operatör değişkenden sonra geliyorsa ilk önce diğer işlemler yapılır ve işlemler bittikten sonra arttırma işlemi yapılır.
 
 __16- Verilen sayının tek mi çift mi olduğunu dönen fonksiyonu yazınız.__
-'''kotlin
+```kotlin
 fun singleOrDouble(number : Int) : String{
     if (number % 2 != 0){
         return "Number is single"
@@ -106,7 +105,7 @@ fun singleOrDouble(number : Int) : String{
     }
 }
 
-'''
+```
 
 __17- “+” operatörü ve plus fonksiyonu aynı işi yapıyorsa ne zaman plus fonksiyonunu ne zaman “+” operatörünü kullanmamız gerekir?__
 Operatörlerin fonksiyon hali null check yapmaktadır. Bu nedenle iki değerden biri nullable ise ya da iki değer birden nullable ise bu durumda operatör fonksiyonların kullanılması gerekir.
