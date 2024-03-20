@@ -170,7 +170,7 @@ Kaynakça
 
 [Medium "==" vs "==="](https://developer.android.com/kotlin/learn)
 
-[Medium Any vs Unit vs Nothing]([https://medium.com/@wandering.soul/unit-vs-nothing-in-kotlin-1083fca51d5c](https://mfallahpour.medium.com/any-nothing-and-unit-in-kotlin-6b0b9779c197))
+[Medium Any vs Unit vs Nothing](https://mfallahpour.medium.com/any-nothing-and-unit-in-kotlin-6b0b9779c197)
 
 [Medium Stack ve Heap Kavramları](https://medium.com/t%C3%BCrkiye/stack-ve-heap-kavram%C4%B1-59adcb29d454)
 
