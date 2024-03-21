@@ -96,7 +96,7 @@ Ram iki farklı bölümden oluşur. Bu bölümler “Stack” ve “Heap” olar
 
 __15- “++number” ve “number++” arasındaki fark nedir?__
 
-Operatörün sağında ve solunda olması işlem önceliğini belirler. Eğer operatör değişkenden önce geliyorsa ilk önce arttırma işlemi yapılır akabinde diğer işlemler yapılır, ancak operatör değişkenden sonra geliyorsa ilk önce diğer işlemler yapılır ve işlemler bittikten sonra arttırma işlemi yapılır.
+Operatörün değişkenin sağında ve solunda olması işlem önceliğini belirler. Eğer operatör değişkenden önce geliyorsa ilk önce arttırma işlemi yapılır akabinde diğer işlemler yapılır, ancak operatör değişkenden sonra geliyorsa ilk önce diğer işlemler yapılır ve işlemler bittikten sonra arttırma işlemi yapılır.
 
 __16- Verilen sayının tek mi çift mi olduğunu dönen fonksiyonu yazınız.__
 ```kotlin
