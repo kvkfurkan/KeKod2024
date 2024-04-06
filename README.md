@@ -152,6 +152,7 @@ awesomeInstance downloadImage
 Bu örnekte de görüldüğü üzere bu durumda indirilen dosya url’si açık olmadığı için okunaklılığı imkânsız hale getirir. Bu nedenle infix fonksiyonlarda default değer kullanılamaz.
 
 __25- Kotlinde işlem önceliği sıralaması ne şekildedir?__
+
 1-	Matematiksel işlemler
 2-	Tip dönüşümleri
 3-	Range kullanımı
