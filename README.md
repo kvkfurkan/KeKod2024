@@ -150,7 +150,8 @@ __24- Infix fonksiyona neden default değer atayamayız?__
 Infix fonksiyonun kullanılma amacı okunaklılığı arttırmaktır. Ancak infix fonksiyona default değer ataması yapabiliyor olsaydık görünüm şu biçimde olurdu;
 awesomeInstance downloadImage
 Bu örnekte de görüldüğü üzere bu durumda indirilen dosya url’si açık olmadığı için okunaklılığı imkânsız hale getirir. Bu nedenle infix fonksiyonlarda default değer kullanılamaz.
-25- Kotlinde işlem önceliği sıralaması ne şekildedir?
+
+__25- Kotlinde işlem önceliği sıralaması ne şekildedir?__
 1-	Matematiksel işlemler
 2-	Tip dönüşümleri
 3-	Range kullanımı
