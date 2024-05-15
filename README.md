@@ -132,7 +132,7 @@ Bu üç özelliği barındıran yapılara First Class Citizen ismi verilir. Kotl
 
 __21- Fonksiyonlarda Default Argument (Name Argument) ne demektir?__
 
-Bir fonksiyon içerisinde parametre olarak bir değişken oluşturup, o değişkenin içerisine eşittir ile bir değer veriyorsak, bu fonksiyon çağırılırken değeri olan parametrelere değer atama işlemi opsiyonel olur. Hiçbir değer verilmemesi durumunda ilk atanan değer alınır. Buna fonksiyon overload denir. Aynı isimdeki birden fazla fonksiyonu yazıp kullanma olayına fonksiyon overload denir ve biz Kotlin’de fonksiyon overload yapmak zorunda kalmıyoruz çünkü default value’lar bize fonksiyon overload yapmayı sağlıyor.
+Bir fonksiyon içerisinde parametre olarak bir değişken oluşturup, o değişkenin içerisine eşittir ile bir değer veriyorsak, bu fonksiyon çağırılırken değeri olan parametrelere değer atama işlemi opsiyonel olur. Hiçbir değer verilmemesi durumunda ilk atanan değer alınır. Buna fonksiyon Default Argument (Name Argument) denir. Aynı isimdeki birden fazla fonksiyonu yazıp kullanma olayına fonksiyon overload denir ve biz Kotlin’de fonksiyon overload yapmak zorunda kalmıyoruz çünkü default value’lar bize fonksiyon overload yapmayı sağlıyor.
 
 __22- Fonksiyon Overload nedir?__
 
