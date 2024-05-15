@@ -161,7 +161,7 @@ __25- Kotlinde işlem önceliği sıralaması ne şekildedir?__
 
 __26- Extension Function nedir?__
 
-Extension Function read-only bir class’ı ya da zaten değiştirmek istemediğimiz üzerine ekleme yapmak istemediğimiz bir class’ı üzerine bir fonksiyon eklenmiş gibi göstermemizi sağlıyor ama gerçekte arka planda bu class’ın bir üye fonksiyonu yaratılmaz. Extension Function’ı Java’da Util fonksiyonlar şeklinde kullanılır. Hangi class extend ediliyorsa o class’ın instance’sini util fonksiyona vererek bir parametre olarak ve o class’la beraber kullanmak isteyeceğimiz diğer parametreyi ya da parametreleri de ikincil, üçüncül parametreler olarak vererek ve o nesne üzerinden nasıl bir işleme tabii tutulacaksa bu fonksiyonları, util fonksiyon üzerinde gerçekleştiriyoruz. Yani Extension Function’lar yeni değil ancak Kotlin bunu fonksiyonel programlama yaklaşımı ile bizlere sunuyor.
+Extension Function read-only bir class’ı ya da zaten değiştirmek istemediğimiz üzerine ekleme yapmak istemediğimiz bir class’ı üzerine bir fonksiyon eklenmiş gibi göstermemizi sağlıyor ama gerçekte arka planda bu class’ın bir üye fonksiyonu yaratılmaz. Extension Function’ı Java’da Util Static fonksiyonlar şeklinde kullanılır. Hangi class extend ediliyorsa o class’ın instance’sini util fonksiyona vererek bir parametre olarak ve o class’la beraber kullanmak isteyeceğimiz diğer parametreyi ya da parametreleri de ikincil, üçüncül parametreler olarak vererek ve o nesne üzerinden nasıl bir işleme tabii tutulacaksa bu fonksiyonları, util fonksiyon üzerinde gerçekleştiriyoruz. Yani Extension Function’lar yeni değil ancak Kotlin bunu fonksiyonel programlama yaklaşımı ile bizlere sunuyor.
 
 __27- Bir Variable’ı nasıl extend edebiliyoruz?__
 
