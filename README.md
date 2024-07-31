@@ -40,7 +40,7 @@ __7- “==” ve “===” operatörleri ile neleri kontrol ederiz?__
 
 __8- Primitive tipteki değişken nullable yapılır ve “===” operatörü ile referansı kontrolü edilirse nasıl bir sonuç alırsınız ve neden bu sonucu alırsınız?__
 
-Eğer primitive tipteki bir değişken nullable olup üç eşittir operatörü ile refarans kontrolü yapılırsa ve Byte değer aralığının (-128, +127) dışında ise bu durumda false değer üretir farklı bellek alanlarını işaret ettiğinizi gösterir ama Byte aralığının içindeyse değerler farklı bile olsa true değerini üretir.
+Eğer primitive tipteki bir değişken nullable olup üç eşittir operatörü ile referans kontrolü yapılırsa ve Byte değer aralığının (-128, +127) dışında ise bu durumda false değer üretir farklı bellek alanlarını işaret ettiğinizi gösterir ama Byte aralığının içindeyse değerler farklı bile olsa true değerini üretir.
 
 __9- İki tane sayısal değeri matematiksel işleme sokarsanız çıkan sonuç hangi tipte olur? (Örneğin = Long + Int)__
 
